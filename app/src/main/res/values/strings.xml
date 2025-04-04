@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CRUD With DAO</string>
+    <string name="activity_main_page_header">Student List</string>
+
+    <string name="list_header_name">Name</string>
+    <string name="list_header_surname">Surname</string>
+    <string name="list_header_id">ID</string>">
+    <string name="list_header_delete">D</string>
+    <string name="list_header_update">U</string>
+
+    <string name="back_main">Back Main Activity</string>
+
+    <string name="txt_id_hint">ID</string>
+    <string name="txt_name_hint">Name</string>
+    <string name="txt_surname_hint">Surname</string>
+
+    <string name="activity_student_update_button_update_student">Update Student</string>
+    <string name="activity_student_update_page_header">Update Student</string>
+
+    <string name="activity_student_add_button_add_student">Add Student</string>
+    <string name="activity_student_add_page_header">Add Student</string>
+</resources>

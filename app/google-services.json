@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846754810119",
+    "project_id": "sahinkalem-f64cb",
+    "storage_bucket": "sahinkalem-f64cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846754810119:android:a15bf7f89581969d92dda2",
+        "android_client_info": {
+          "package_name": "sahinkalem.firebasesample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlM6ueOdhmzaFFKqLMCdCzYG1ZBMVvIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
