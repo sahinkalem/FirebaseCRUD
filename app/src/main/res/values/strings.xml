@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CRUD With DAO</string>
+    <string name="app_name">Firabase CRUD </string>
     <string name="activity_main_page_header">Student List</string>
 
     <string name="list_header_name">Name</string>
